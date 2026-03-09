@@ -68,6 +68,17 @@ A Generative AI platform that provides personalized fashion recommendations base
 
    Then open `http://localhost:3000` in your browser.
 
+
+   Screenshots :
+   <img width="1891" height="962" alt="Screenshot 2026-03-09 184009" src="https://github.com/user-attachments/assets/18926e84-12c6-4dfc-9944-2abc28de7a4f" />
+
+   <img width="1900" height="968" alt="Screenshot 2026-03-09 184104" src="https://github.com/user-attachments/assets/9a263352-a955-4b3e-bb4c-4fd228ad2584" />
+
+   <img width="1885" height="963" alt="Screenshot 2026-03-09 184138" src="https://github.com/user-attachments/assets/1961109d-3587-4ae2-9bfb-ffdb4d73b6cc" />
+
+
+
+
 ## Usage
 
 1. Start the backend server
